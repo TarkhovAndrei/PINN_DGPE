@@ -1,0 +1,3 @@
+[submodule "DGPE"]
+	path = DGPE
+	url = https://github.com/TarkhovAndrei/DGPE
